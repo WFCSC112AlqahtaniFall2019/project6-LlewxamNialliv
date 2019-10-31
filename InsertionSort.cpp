@@ -2,6 +2,7 @@
 #include <vector>
 #include "BinaryInsertionSort.h"
 #include "Node.h"
+#include <cassert>
 using namespace std;
 
 int main() {
