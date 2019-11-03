@@ -2,6 +2,8 @@
 #define NODE_H
 
 class Node {
+    friend class LinkedList;
+
 public:
     // Node constructor
     Node(int v = 0, Node* n = nullptr)
@@ -9,6 +11,7 @@ public:
         value = v;
         next = n;
     }
+
 private:
 
     int value;
