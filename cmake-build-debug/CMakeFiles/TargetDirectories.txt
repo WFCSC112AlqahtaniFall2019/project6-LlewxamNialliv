@@ -1,0 +1,3 @@
+C:/Users/12396/CLionProjects/project6-LlewxamNialliv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/12396/CLionProjects/project6-LlewxamNialliv/cmake-build-debug/CMakeFiles/BinaryInsertionSort.dir
+C:/Users/12396/CLionProjects/project6-LlewxamNialliv/cmake-build-debug/CMakeFiles/edit_cache.dir
